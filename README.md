@@ -89,9 +89,9 @@ source .venv/bin/activate
 - python-dotenv
 
 # Output
-![margin distribution](http://github.com/mid-works/Fashion-Data-Analysis-2024-2025/blob/main/assects/Margin%20Distribution.png)
+![margin distribution](assects/Margin Distribution.png)
 
-![Top Product](http://github.com/mid-works/Fashion-Data-Analysis-2024-2025/blob/main/assects/top products by revenue.png)
+![Top Product](assects/top products by revenue.png)
 
 # License 
 - MIT License — see LICENSE file.
