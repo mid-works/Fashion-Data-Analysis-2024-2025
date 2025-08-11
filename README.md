@@ -91,7 +91,7 @@ source .venv/bin/activate
 # Output
 ![margin distribution](./assets/margin.png)
 
-! [Top Product](./assets/topproductbyrevenue.png)
+![Top Product](./assets/topproductbyrevenue.png)
 
 # License 
 - MIT License — see LICENSE file.
