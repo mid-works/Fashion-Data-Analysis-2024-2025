@@ -88,6 +88,8 @@ source .venv/bin/activate
 - flake8
 - python-dotenv
 
+# Output
+![margin distribution]()
 
 # License 
 - MIT License — see LICENSE file.
