@@ -89,9 +89,9 @@ source .venv/bin/activate
 - python-dotenv
 
 # Output
-! [margin distribution](./assects/Margin%20Distribution.png)
+! [margin distribution](./assets/Margin%20Distribution.png)
 
-! [Top Product](/assects/top%2)
+! [Top Product](./assets/top%20product%20by%20revenue.png)
 
 # License 
 - MIT License — see LICENSE file.
