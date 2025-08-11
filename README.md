@@ -51,47 +51,47 @@ Fashion-Data-Analysis-(2024-2025)/
 
 ## Clone & install
 
-git clone https://github.com/mid-works/Fashion-Data-Analysis-2024-2025.git
-cd Fashion-Data-Analysis-2024-2025
-python -m venv .venv
+- git clone https://github.com/mid-works/Fashion-Data-Analysis-2024-2025.git
+- cd Fashion-Data-Analysis-2024-2025
+- python -m venv .venv
 # mac / linux
 source .venv/bin/activate
 
 # windows (powershell)
-.venv\Scripts\Activate.ps1
+- .venv\Scripts\Activate.ps1
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-conda env create -f environment.yml
-conda activate data-fashion-2025
+- conda env create -f environment.yml
+- conda activate data-fashion-2025
 
 # Configuration
-DATABASE_URL=postgresql://user:password@localhost:5432/data_fashion
-DATA_PATH=./data
-S3_BUCKET=your-s3-bucket-name            # if using S3
-AWS_ACCESS_KEY_ID=...
-AWS_SECRET_ACCESS_KEY=...
+- DATABASE_URL=postgresql://user:password@localhost:5432/data_fashion
+- DATA_PATH=./data
+- S3_BUCKET=your-s3-bucket-name            # if using S3
+- AWS_ACCESS_KEY_ID=...
+- AWS_SECRET_ACCESS_KEY=...
 
 # Dependencies
 
-pandas>=1.5
-numpy>=1.24
-sqlalchemy>=1.4
-psycopg2-binary
-jupyterlab
-matplotlib
-seaborn
-scikit-learn
-pyyaml
-papermill
-black
-flake8
-python-dotenv
+- pandas>=1.5
+- numpy>=1.24
+- sqlalchemy>=1.4
+- psycopg2-binary
+- jupyterlab
+- matplotlib
+- seaborn
+-scikit-learn
+- pyyaml
+- papermill
+- black
+- flake8
+- python-dotenv
 
 
 # License 
-MIT License — see LICENSE file.
+- MIT License — see LICENSE file.
 
 
 # Acknowledgements & data sources
-kaggle [https://www.kaggle.com/datasets/danishbaariq/data-fashion-in-europe-2025](#kaggle)
+- kaggle [https://www.kaggle.com/datasets/danishbaariq/data-fashion-in-europe-2025](#kaggle)
