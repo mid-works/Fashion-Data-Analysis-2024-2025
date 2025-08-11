@@ -29,18 +29,18 @@
 - Produce reproducible reports in notebook and visualizations for stakeholders.
 
 # Repository Structure
--Fashion-Data-Analysis-(2024-2025)/
--├─ dataset/
--│ ├─ productitems.csv
--│ └─ salesietm.csv
--├─ code.py
--├─ model.ipynb
--├─ notebooks.ipynb
--├─ fashion analysis.sql
--├─ .env.example
--├─ requirements.txt
--├─ environment.yml
--└─ README.md
+- Fashion-Data-Analysis-(2024-2025)/
+- ├─ dataset/
+- │ ├─ productitems.csv
+- │ └─ salesietm.csv
+- ├ ─ code.py
+- ├─ model.ipynb
+- ├─ notebooks.ipynb
+- ├─ fashion analysis.sql
+- ├─ .env.example
+- ├─ requirements.txt
+- ├─ environment.yml
+- └─ README.md
 
 
 # Quickstart — Installation
